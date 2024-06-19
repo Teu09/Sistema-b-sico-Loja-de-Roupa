@@ -1,0 +1,8 @@
+Cliente: João da Silva
+Produto: roupa a
+Quantidade: 5
+Preço Unitário: 10.00
+Total: 50.00
+Forma de Pagamento: PIX
+Data do Pedido: 2024-06-16
+
